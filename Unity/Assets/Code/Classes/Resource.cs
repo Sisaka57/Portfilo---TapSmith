@@ -10,7 +10,7 @@ public enum ResourceType
 [Serializable]
 public class Resource
 {
-    public ResourceType ResourceType = ResourceType.Wood;
     public Sprite ResourceIcon;
+    public int ResourceLevel = 0;
     public int ResourceCount = 0;
 }
