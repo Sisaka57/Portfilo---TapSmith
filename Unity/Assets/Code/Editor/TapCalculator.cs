@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEditor;
+using UnityEngine.Math;
 
 public class TapCalculator : EditorWindow
 {

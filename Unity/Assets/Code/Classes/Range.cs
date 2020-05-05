@@ -1,20 +1,23 @@
 ﻿using System;
 
-[Serializable]
-public class Range
+namespace UnityEngine.Math
 {
-    public int Min = 0;
-    public int Max = 0;
-
-    public Range()
+    [Serializable]
+    public class Range
     {
-        Min = 0;
-        Max = 100;
-    }
+        public int Min = 0;
+        public int Max = 0;
 
-    public Range(int min, int max)
-    {
-        Min = min;
-        Max = max;
+        public Range()
+        {
+            Min = 0;
+            Max = 100;
+        }
+
+        public Range(int min, int max)
+        {
+            Min = min;
+            Max = max;
+        }
     }
 }

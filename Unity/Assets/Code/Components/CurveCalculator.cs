@@ -1,5 +1,6 @@
 ﻿using System;
 using UnityEngine;
+using UnityEngine.Math;
 
 [ExecuteInEditMode]
 public class CurveCalculator : MonoBehaviour
