@@ -1,8 +1,10 @@
 ﻿using System;
+using UnityEngine;
 
 [Serializable]
 public class Resource
 {
-    public Item ResourceItem;
-    public int ResourceCount;
+    public Sprite ResourceIcon;
+    public string ResourceName;
+    public string ResourceDescription;
 }
