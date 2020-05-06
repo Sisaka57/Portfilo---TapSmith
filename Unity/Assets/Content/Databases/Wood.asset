@@ -43,13 +43,13 @@ MonoBehaviour:
     Min: 0
     Max: 1000000
   Resources:
-  - ResourceIcon: {fileID: 21300000, guid: a295135fd0bdd044bb671cc6bbe1389a, type: 3}
+  - ResourceIcon: {fileID: 21300000, guid: 25a054e275a7a2e4a97f4f565cd078cf, type: 3}
     ResourceLevel: 0
-    ResourceCount: 0
-  - ResourceIcon: {fileID: 21300000, guid: 25641d855b13cfc4eace90956c5c8fe4, type: 3}
+    ResourceCount: 2042
+  - ResourceIcon: {fileID: 21300000, guid: b4ef73056fa98414f8c27aa111054604, type: 3}
     ResourceLevel: 1
     ResourceCount: 0
-  - ResourceIcon: {fileID: 21300000, guid: 72fc25f0fe42f544b9250cb2577373b4, type: 3}
+  - ResourceIcon: {fileID: 21300000, guid: afabb9cc36123d24fb8ff46c6778d476, type: 3}
     ResourceLevel: 2
     ResourceCount: 0
   - ResourceIcon: {fileID: 21300000, guid: 31ae3de6097ffe745bd44ddcde9ad558, type: 3}

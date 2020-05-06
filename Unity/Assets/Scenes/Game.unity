@@ -393,7 +393,7 @@ GameObject:
   - component: {fileID: 95548863}
   - component: {fileID: 95548862}
   m_Layer: 5
-  m_Name: Icon
+  m_Name: Icon - SmithHammer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -465,7 +465,7 @@ GameObject:
   - component: {fileID: 174032812}
   - component: {fileID: 174032811}
   m_Layer: 5
-  m_Name: Icon
+  m_Name: Icon - WoodAxe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -480,7 +480,7 @@ RectTransform:
   m_GameObject: {fileID: 174032809}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1126110016}
   m_RootOrder: 0
@@ -508,7 +508,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8fbe96ddd1867c44bb4b352afd444929, type: 3}
+  m_Sprite: {fileID: 21300000, guid: cb6bd86740f3cb549b3dde0284e67bf7, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -864,7 +864,7 @@ GameObject:
   - component: {fileID: 374101476}
   - component: {fileID: 374101475}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Button - Settings
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1566,7 +1566,7 @@ GameObject:
   - component: {fileID: 534025316}
   - component: {fileID: 534025315}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Button - Mine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2462,7 +2462,7 @@ GameObject:
   - component: {fileID: 881517303}
   - component: {fileID: 881517302}
   m_Layer: 5
-  m_Name: Icon
+  m_Name: Icon - Paper Settings
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2505,7 +2505,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 72fc25f0fe42f544b9250cb2577373b4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4f5b2d84496cb944fa9f859129a7dbc5, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -2766,7 +2766,7 @@ GameObject:
   - component: {fileID: 1126110018}
   - component: {fileID: 1126110017}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Button - Forest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3088,7 +3088,7 @@ GameObject:
   - component: {fileID: 1231991478}
   - component: {fileID: 1231991477}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Button - Smith
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3375,7 +3375,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_Sprite: {fileID: 21300000, guid: d7b432a176fd2fd4cb3a2a8124ebd9f0, type: 3}
-  m_Type: 2
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -4641,7 +4641,7 @@ GameObject:
   - component: {fileID: 2123673347}
   - component: {fileID: 2123673346}
   m_Layer: 5
-  m_Name: Icon
+  m_Name: Icon - MinePick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
